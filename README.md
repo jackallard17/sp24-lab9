@@ -7,12 +7,12 @@ Organization:
 * SDX-ch16: The code files for the _SDX Ch. 16_ activity (as downloaded directly from the book website, unmodified) 
 
 ## Team Members for Part 1
-Enter your names here
+Jack Allard
 
 ## Team Roles for Part 1
 Who will start out as
-* DRIVER: Driver's name
-* NAVIGATOR: Navigator's name
+* DRIVER: Jack Allard
+* NAVIGATOR: Jack Allard
 
 You will switch halfway through this activity.
 
