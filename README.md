@@ -69,8 +69,12 @@ Answer the following questions:
 
     (Hint: Look at the implementation of `LoadObjects.load`.) 
 
+    The colon allows for easy splitting of the string, so that the first part can be interpreted as the data type and the second part can be interpreted as the value itself.
+
 2.  Why doesn’t `LoadAlias.load` calculate object IDs? 
     Why does it use the IDs saved in the archive instead?
+
+    This way we do not need to re'generate ids when loading the serialized objects. We use the archived ID to preserve the data integrity.
 
 ### Exercise 4: Strings
 
