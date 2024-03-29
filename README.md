@@ -46,6 +46,8 @@ I thought of two strategies. Implement whichever you prefer:
 
 After doing this exercise, explain the strategy you chose, and why.
 
+I chose strategy 1 since objects.py already implements a structured way to handle serialization. Additionally, this makes the future extensibility better since 'SaveObjects' and 'LoadObjects' can be extended easily with new methods to cover new cases.
+
 ### Exercise 2: Refactoring `SaveObjects.save`
 
 In `objects.py`. find the implementation of the save method.
