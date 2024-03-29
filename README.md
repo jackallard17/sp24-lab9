@@ -56,6 +56,9 @@ Run the corresponding test module to verify that your refactorings didn't break 
 
 After doing this exercise, briefly explain what you changed.
 
+
+I renamed the variable from thing to object_to_save for clarity and introduced an explaining variable save_method_name to make the dynamic method selection process explicit, without altering the functionality of the code.
+
 ### Exercise 3: Understanding code
 
 Answer the following questions:
