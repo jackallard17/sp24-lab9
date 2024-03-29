@@ -21,7 +21,10 @@ You will switch halfway through this activity.
 Write your answers to the questions below.
 
 * What were the main ideas from SDX chapter 16?
+We can persist objects between runtimes using various methods, including JSON, which is a cross language standard for representing objects in a serialized manner. Another idea is the open-closed pinciple, which refers to the property of software being open to extensibility but not to modification. For example, this can allow user-defined types to function without modifying existing code.
+  
 * What questions did you have about the material in the chapters? What did you find confusing?
+  I found some of the 'converting to classes' (16.2) examples to be a bit confusing, but otherwise I felt like I understood this reading pretty well
 
 ### Exercise 0: Running the tests
 
